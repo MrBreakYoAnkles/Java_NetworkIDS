@@ -6,7 +6,7 @@ Monitors ICMP traffic and summarizes activity
 Works with VirtualBox VM to simulate attacker traffic
 Change the filter to whichever device if you want to test locally, on the internet, or over a VM
 
-HOW TO RUN
+HOW TO RUN:
 Install Npcap
 Run the program in Eclipse
 Run with a terminal or over the VM terminal
