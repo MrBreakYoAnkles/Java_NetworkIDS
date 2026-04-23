@@ -15,3 +15,6 @@ Run "ip a" on your VM terminal to figure out the machines IP for testing
 Select the correct network interface
 Run ping corresponding with your IP on your local machine.
 
+## Author
+Alex Stanford  
+University of North Florida  
